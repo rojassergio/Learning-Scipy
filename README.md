@@ -1,13 +1,14 @@
 # Learning-Scipy
-This repository contains source code programs and some notes to complement the book about the scientific Python module SciPy entitle [Learning SciPy for Numerical and Scientific Computing - Second Edition](https://www.packtpub.com/big-data-and-business-intelligence/learning-scipy-numerical-and-scientific-computing-second-edition), of Pack Publishing authored by Sergio J. Rojas G., Erik A Christensen y Francisco J. Blanco-Silva (2015). This repository is maintened by one of the authors, Sergio Rojas.
+This repository contains source code programs and some notes to complement the book about the scientific [Python](https://www.python.org/) module [SciPy](http://www.scipy.org/) entitle [Learning SciPy for Numerical and Scientific Computing - Second Edition (2015)](https://www.packtpub.com/big-data-and-business-intelligence/learning-scipy-numerical-and-scientific-computing-second-edition), of [Pack Publishing](https://www.packtpub.com/) authored by [Sergio J. Rojas G.](http://prof.usb.ve/srojas/), Erik A Christensen y [Francisco J. Blanco-Silva](http://blancosilva.github.io/). This repository is maintened by one of the authors, Sergio Rojas.
 
-The functionality of SciPy covered in the
+The functionality of [SciPy](http://www.scipy.org/) covered in the
 aforementioned book can be used as either a complement
 for a full course of scientific computing with Python or an
-Introduction to Scipy.
+Introduction to [Scipy](http://www.scipy.org/).
 
-Feel free to reuse and modify for your own teaching purposes.
+Consequently, feel free to reuse and modify the contents presneted here for your own teaching purposes, but
+proper acknowledgement of the source content is highly appreciated.
 
-However, we would like this reference material to be improved over time,
-thus we encourage people to contribute back changes. These will be
-reviewed and edited by the maintener of this site.
+As we would like this reference material to be improved over time,
+we encourage you to contribute changes or corrections. These will be
+reviewed ,edited, and properly acknowledged by the maintener of this site.
