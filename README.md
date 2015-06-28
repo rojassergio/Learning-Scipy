@@ -3,7 +3,7 @@ This repository contains source code programs and some notes to complement the b
 
 The functionality of [SciPy](http://www.scipy.org/) covered in the
 aforementioned book can be used as either a complement
-for a full course of scientific computing with Python or an
+for a full course of scientific computing with Python or as an
 Introduction to [Scipy](http://www.scipy.org/).
 
 Consequently, feel free to reuse and modify the contents presneted here for your own teaching purposes, but
