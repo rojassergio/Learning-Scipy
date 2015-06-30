@@ -27,4 +27,14 @@ reviewed ,edited, and properly acknowledged by the maintainer of this site.
 </table>
 <BR CLEAR=ALL>
 
+The Following web links bring you to the [nbviewer](http://nbviewer.ipython.org/) static (HTML) display corresponding to the respective [IPython notebooks](http://ipython.org/notebook.html) included with each 
+chapter of the book (which you could download following the chapter links above):
 
+>> * [**Chapter 1. _Introduction to SciPy_**](http://nbviewer.ipython.org/github/rojassergio/Learning-Scipy/blob/master/Chapter1/7702OS_Chap_01_rev20150118.ipynb)
+>> * [**Chapter 2. _Working with Numpy Array as a first step to Scipy_**](http://nbviewer.ipython.org/github/rojassergio/Learning-Scipy/blob/master/Chapter2/7702OS_Chap_02_rev20141229.ipynb)
+>> * [**Chapter 3. _SciPy for Linear Algebra_**](http://nbviewer.ipython.org/github/rojassergio/Learning-Scipy/blob/master/Chapter3/7702OS_Chap_03_rev20141229.ipynb)
+>> * [**Chapter 4. SciPy for Numerical Analysis_**](http://nbviewer.ipython.org/github/rojassergio/Learning-Scipy/blob/master/Chapter4/7702OS_Chap_04_rev20141230.ipynb)
+>> * [**Chapter 5. _SciPy for Signal Processing_**](http://nbviewer.ipython.org/github/rojassergio/Learning-Scipy/blob/master/Chapter5/CHAP_05.ipynb)
+>> * [**Chapter 6. _SciPy for Data Mining_**](http://nbviewer.ipython.org/github/rojassergio/Learning-Scipy/blob/master/Chapter6/CHAP_06.ipynb)
+>> * [**Chapter 7. _SciPy for Computational Geometry_**](http://nbviewer.ipython.org/github/rojassergio/Learning-Scipy/blob/master/Chapter7/CHAP_07.ipynb)
+>> * [**Chapter 8. _Interaction with Other Languages_**](http://nbviewer.ipython.org/github/rojassergio/Learning-Scipy/blob/master/Chapter8/CHAP_08.ipynb)
