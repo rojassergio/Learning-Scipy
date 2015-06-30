@@ -28,7 +28,7 @@ reviewed ,edited, and properly acknowledged by the maintainer of this site.
 <BR CLEAR=ALL>
 
 The Following web links bring you to the [nbviewer](http://nbviewer.ipython.org/) static (HTML) display corresponding to the respective [IPython notebooks](http://ipython.org/notebook.html) included with each 
-chapter of the book (which you could download following the chapter links above):
+chapter of the book (which you could download following each chapter link already shown above):
 
 >> * [**Chapter 1. _Introduction to SciPy_**](http://nbviewer.ipython.org/github/rojassergio/Learning-Scipy/blob/master/Chapter1/7702OS_Chap_01_rev20150118.ipynb)
 >> * [**Chapter 2. _Working with Numpy Array as a first step to Scipy_**](http://nbviewer.ipython.org/github/rojassergio/Learning-Scipy/blob/master/Chapter2/7702OS_Chap_02_rev20141229.ipynb)
