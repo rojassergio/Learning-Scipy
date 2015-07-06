@@ -41,4 +41,4 @@ chapter of the book (which you could download following each chapter link alread
 
 # Otros archivos en Learning-Scipy
 
-> * [**_An&aacute;lisis Num&eacute;rico y C&oacute;mputo Cient&iacute;fico v&iacute;a el IPython Notebook_**](http://nbviewer.ipython.org/github/rojassergio/Learning-Scipy/blob/master/Other_IPhythonNotes/Numerical_Computing_via_IPython.ipynb)
+> * [**_An&aacute;lisis Num&eacute;rico y C&oacute;mputo Cient&iacute;fico v&iacute;a el IPython Notebook_**](http://nbviewer.ipython.org/github/rojassergio/Learning-Scipy/blob/master/Other_IPythonNotes/Numerical_Computing_via_IPython.ipynb)
