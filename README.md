@@ -38,3 +38,7 @@ chapter of the book (which you could download following each chapter link alread
 >> * [**Chapter 6. _SciPy for Data Mining_**](http://nbviewer.ipython.org/github/rojassergio/Learning-Scipy/blob/master/Chapter6/CHAP_06.ipynb)
 >> * [**Chapter 7. _SciPy for Computational Geometry_**](http://nbviewer.ipython.org/github/rojassergio/Learning-Scipy/blob/master/Chapter7/CHAP_07.ipynb)
 >> * [**Chapter 8. _Interaction with Other Languages_**](http://nbviewer.ipython.org/github/rojassergio/Learning-Scipy/blob/master/Chapter8/CHAP_08.ipynb)
+
+# Otros archivos en Learning-Scipy
+
+> * [**_An&aacute;lisis Num&eacute;rico y C&oacute;mputo Cient&iacute;fico v&iacute;a el IPython Notebook_**](http://nbviewer.ipython.org/github/rojassergio/Learning-Scipy/blob/master/Other_IPhythonNotes/Numerical_Computing_via_IPython.ipynb)
