@@ -3,7 +3,7 @@
  <table style="width:100%">
   <tr>
      <td>
-         <a href="https://www.packtpub.com/big-data-and-business-intelligence/learning-scipy-numerical-and-scientific-computing-second-edition" target="_blank">
+         <a href="http://www.amazon.com/Learning-Numerical-Scientific-Computing-Second/dp/1783987707/" target="_blank">
       <img src="./img/book_cover.png" alt="" height="192" width="192" align="ABSMIDDLE" border="0">
 </a>
      </td>
