@@ -8,6 +8,7 @@
 </a>
      </td>
      <td>
+
 This repository contains source code programs and some notes to complement the book about the scientific [Python](https://www.python.org/) module [SciPy](http://www.scipy.org/) entitle [Learning SciPy for Numerical and Scientific Computing - Second Edition (2015)](https://www.packtpub.com/big-data-and-business-intelligence/learning-scipy-numerical-and-scientific-computing-second-edition), of [Pack Publishing](https://www.packtpub.com/) authored by [Sergio J. Rojas G.](http://prof.usb.ve/srojas/), Erik A Christensen,  and [Francisco J. Blanco-Silva](http://blancosilva.github.io/). This repository is maintained by one of the authors, 
 [Sergio Rojas](http://prof.usb.ve/srojas/).
 
