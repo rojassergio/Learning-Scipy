@@ -45,10 +45,6 @@ chapter of the book (which you could download following each chapter link alread
 > * [**_An&aacute;lisis Num&eacute;rico y C&oacute;mputo Cient&iacute;fico v&iacute;a el IPython Notebook_**](http://nbviewer.ipython.org/github/rojassergio/Learning-Scipy/blob/master/Other_IPythonNotes/Numerical_Computing_via_IPython.ipynb)
 
 <BR CLEAR=ALL>
-**We are on Twitter**: <a href="https://twitter.com/pyprog/" target="_blank">@pyprog Twitter</a>
+**We are on Twitter**: <a href="https://www.researchgate.net/publication/301293668" target="_blank">Twitter</a>
 <BR CLEAR=ALL>
-
-| **Write a Twitter**  | **Share this site** |
-| :---: | :---: |
-| <div class="ssba ssba-wrap"><div style="text-align:left"><a data-site="" class="ssba_twitter_share" href="http://twitter.com/share?url=&amp;text=@pyprog+"  target="_blank" ><img src="./img/twitter_image.png" title="Twitter" class="ssba ssba-img" alt="Tweet about this on Twitter" /></a> </div> | <div class="ssba ssba-wrap"><div style="text-align:right"><a data-site="" class="ssba_twitter_share" href="http://twitter.com/share?url=https://github.com/rojassergio/Learning-Scipy/&amp;text=Learning SciPy+"  target="_blank" ><img src="./img/twitter_image.png" title="Twitter" class="ssba ssba-img" alt="Tweet about this on Twitter" /></a> </div> |
 
